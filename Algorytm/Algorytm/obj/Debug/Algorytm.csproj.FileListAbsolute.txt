@@ -1,0 +1,7 @@
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\bin\Debug\Algorytm.exe.config
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\bin\Debug\Algorytm.exe
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\bin\Debug\Algorytm.pdb
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\obj\Debug\Algorytm.csprojAssemblyReference.cache
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\obj\Debug\Algorytm.csproj.CoreCompileInputs.cache
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\obj\Debug\Algorytm.exe
+C:\Users\serus\Documents\Gabos\Algorytm\Algorytm\obj\Debug\Algorytm.pdb

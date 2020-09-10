@@ -1,0 +1,10 @@
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.csprojAssemblyReference.cache
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.Properties.Resources.resources
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.csproj.GenerateResource.cache
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.csproj.CoreCompileInputs.cache
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\bin\Debug\eZwolnienia.exe.config
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\bin\Debug\eZwolnienia.exe
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\bin\Debug\eZwolnienia.pdb
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.MainWindow.resources
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.exe
+C:\Users\serus\Documents\Gabos\eZwolnienia\eZwolnienia\obj\Debug\eZwolnienia.pdb

@@ -1,0 +1,10 @@
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\bin\Debug\GUSapi.exe.config
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\bin\Debug\GUSapi.exe
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\bin\Debug\GUSapi.pdb
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.csprojAssemblyReference.cache
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.MainWindow.resources
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.Properties.Resources.resources
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.csproj.GenerateResource.cache
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.csproj.CoreCompileInputs.cache
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.exe
+C:\Users\serus\Documents\Gabos\GUSapi\GUSapi\obj\Debug\GUSapi.pdb
