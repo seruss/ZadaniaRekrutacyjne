@@ -26,24 +26,15 @@ BEGIN
 	SELECT Klient, KwotaBrutto
 	FROM inserted;
 
-DECLARE @temp_klient as INT;
-DECLARE @ffcursor as CURSOR;
-
-SET @ffcursor = CURSOR FAST_FORWARD FOR
-SELECT Klient FROM inserted
- 
-OPEN @ffcursor;
-FETCH NEXT FROM @ffcursor INTO @temp_klient;
- WHILE @@FETCH_STATUS = 0
-BEGIN
 	INSERT INTO Faktury(nr_klienta, nr_faktury)
-	VALUES (@temp_klient, (SELECT CASE WHEN COUNT(1) > 0 THEN COUNT(1)+1 ELSE 1 END FROM Faktury WHERE nr_klienta = @temp_klient));
-    FETCH NEXT FROM @ffcursor INTO @temp_klient;
+	SELECT Klient, ROW_NUMBER() OVER (partition by Klient order by Klient) + f.nr
+	FROM inserted i
+	JOIN (
+        SELECT DISTINCT nr_klienta, MAX(nr_faktury) as nr
+        FROM Faktury
+        GROUP BY nr_klienta
+        ) f ON f.nr_klienta = i.Klient
 END
-CLOSE @ffcursor;
-DEALLOCATE @ffcursor;
-END
-
 
 
 
